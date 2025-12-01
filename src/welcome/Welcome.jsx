@@ -10,7 +10,7 @@ export default function Welcome({image,text, heading, price}) {
     const newCount = count - 1;
 
     if (newCount <= 0) {
-      setCount(1);
+            setCount(1);
       setShowCounter(false);
       return;
     }

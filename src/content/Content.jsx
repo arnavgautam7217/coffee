@@ -9,7 +9,7 @@ export default function Content() {
     image: "https://images.pexels.com/photos/15014919/pexels-photo-15014919.jpeg",
     heading: "Gulab Jammun",
     text: "ajjidj alsjjil dlkkld hwyud bshuih jfdsjkjk ud jkhkhj huhsj",
-    price: "Rs.5199",
+    price: "Rs.199",
   },
   {
     image: "https://images.pexels.com/photos/6126245/pexels-photo-6126245.jpeg",
